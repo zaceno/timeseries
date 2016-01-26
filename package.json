@@ -1,0 +1,17 @@
+{
+  "name": "timeseries",
+  "version": "1.0.0",
+  "description": "Helps some math with timeseries",
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaceno/timeseries.git"
+  },
+  "author": "Zacharias Enochsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaceno/timeseries/issues"
+  },
+  "homepage": "https://github.com/zaceno/timeseries#readme"
+}
